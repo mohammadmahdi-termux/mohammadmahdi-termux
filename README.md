@@ -1,5 +1,1 @@
-<a href=&quothttps://github.com/mohammadmahdi-termux&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=mohammadmahdi-termux&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
-<a href=&quothttps://github.com/mohammadmahdi-termux&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmahdi-termux&quot />
-</a>
+<a href="https://github.com/mohammadmahdi-termux/github-readme-stats"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mohammadmahdi-termux&show_icons=true&include_all_commits=true&theme=dark" alt="mohammadmahdi-termux" /> </a> <a href="https://github.com/mohammadmahdi-termux/github-readme-stats"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammadmahdi-termux&layout=compact&theme=dark" /> </a>
