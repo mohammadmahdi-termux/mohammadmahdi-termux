@@ -1,5 +1,5 @@
 <div > 
-<img src="https://github.com/mohammadmahdi-termux/mohammadmahdi-termux/blob/main/eva.gif" width="25%" algin="right"/><pre></pre>
+<img src="https://github.com/mohammadmahdi-termux/mohammadmahdi-termux/blob/main/eva.gif" width="25%" align="right"/><br><pre algin="left">gf</pre>
 
 
 
