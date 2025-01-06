@@ -1,7 +1,7 @@
 <div >
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=hello!+I'm+mohammadmahditermux+" alt="Typing SVG" /></a>
-  <img src="https://github.com/mohammadmahdi-termux/mohammadmahdi-termux/blob/main/eva.gif" width="35%" align="right"/>
+  <img src="https://github.com/mohammadmahdi-termux/mohammadmahdi-termux/blob/main/pic/eva.gif" width="35%" align="right"/>
   <br>
   <pre align="center">
 👋 Hi, I'm Mohammadmahdi a Python developer and anime enthusiast.
