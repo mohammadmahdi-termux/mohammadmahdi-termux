@@ -5,7 +5,7 @@
   
   <br>
   <pre align="center">
-👋 Hi, I'm Mohammadmahdi a Python developer and anime enthusiast.
+👋 a Python developer and anime enthusiast.
 🚀 Always ready to learn and take on new challenges.
 </pre>
 <img src="https://github.com/mohammadmahdi-termux/mohammadmahdi-termux/blob/ef9e1aa778bbc7bd24b308bd3ecc2753bf785b24/pic/rei3.jpg" algin="left" width="25%"/>
