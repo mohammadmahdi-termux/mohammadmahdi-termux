@@ -4,7 +4,7 @@
   <img src="https://github.com/mohammadmahdi-termux/mohammadmahdi-termux/blob/main/pic/eva.gif" width="35%" align="right"/>
   
   <br>
-  <pre align="center">
+  <pre align="left" >
 👋 a Python developer and anime enthusiast.
 🚀 Always ready to learn and take on new challenges.
 </pre>
